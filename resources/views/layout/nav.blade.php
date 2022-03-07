@@ -22,7 +22,7 @@
 
             <div class="order-1 md:order-2">
                 <a class="flex items-center tracking-wide no-underline hover:no-underline font-bold text-pink-700 text-xl" href="#">
-                    Mel Pet Online
+                    Atelie d'Maria
                 </a>
             </div>
 

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="icon" href="{{ asset('images/icons/favicon.ico') }}" type="image/ico">
-    <title>Mel Pet Online - Sua Loja de Acessorios @yield('title')</title>
+    <title>Atelie d'Maria - Ateliê especializando em artigos de festas infantis @yield('title')</title>
     
     <!--TAILWINDCSS-->
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
