@@ -1,6 +1,5 @@
-
-    <!--Retirar Nav da INDEX-->
-    <nav id="header" class="w-full z-30 top-0 py-1 bg-yellow-400 border-radius">
+<!--Retirar Nav da INDEX-->
+    <nav id="header" class="w-full z-30 top-0 py-1 bg-red-400 border-radius">
         <div class="w-full container mx-auto flex flex-wrap items-center justify-between mt-0 px-6 py-3">
 
             <label for="menu-toggle" class="cursor-pointer md:hidden block">
@@ -22,6 +21,7 @@
 
             <div class="order-1 md:order-2">
                 <a class="flex items-center tracking-wide no-underline hover:no-underline font-bold text-pink-700 text-xl" href="#">
+                    <img class="px-40" src="{{ asset('images/posts/atelie-dmaria.jpg') }}">
                     Atelie d'Maria
                 </a>
             </div>
